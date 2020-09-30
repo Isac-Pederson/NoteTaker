@@ -7,9 +7,6 @@
 In this application I was presented with all of the front-end completed, however there was no back-end. I created the api and html routes, and the server.js files. I also deployed the app on Heroku. The app works by creating new notes, being able to see previously made notes, and deleting old notes. 
 
 
-## Table of Contents
-
-* [License](#license)
 
 ## License
  This project is licensed under GNU General Public License v2.0
